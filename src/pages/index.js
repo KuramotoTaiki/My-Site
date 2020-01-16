@@ -8,8 +8,8 @@ const IndexPage = () => {
         <Layout>
             <Head title="Home" />
             <h1>Hello.</h1>
-            <h2>I'm Taiki, A full-stack developer living in beautiful Japan..</h2>
-            <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
+            <h2>I'm Taiki, A full-stack developer living in beautiful America.</h2>
+            <p>Need a <Link to="/contact">contact</Link>?</p>
         </Layout>
     )
 }
