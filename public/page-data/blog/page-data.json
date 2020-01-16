@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-pages-blog-js","path":"/blog/","result":{"data":{"allContentfulBlogPost":{"edges":[{"node":{"title":"Debugging Node.js","slug":"debug-node","publishedDate":"January 12th, 2020"}},{"node":{"title":"A Contentful Blog Post","slug":"contentful","publishedDate":"January 7th, 2020"}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
