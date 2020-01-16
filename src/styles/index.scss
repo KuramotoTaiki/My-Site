@@ -9,7 +9,9 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0f1419;
 }
+
 article,
 aside,
 details,
@@ -63,6 +65,7 @@ dfn {
   font-style: italic;
 }
 h1 {
+  color: #9cb2bf;
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -231,7 +234,6 @@ h1 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
@@ -248,7 +250,7 @@ h2 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
+  color: #aabfe5;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
@@ -379,6 +381,7 @@ dd {
   margin-bottom: 1.45rem;
 }
 p {
+  color: #bbb8bf;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
